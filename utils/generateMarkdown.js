@@ -49,12 +49,12 @@ function generateMarkdown(data) {
   ${data.description}
   
   # Table of Content
-  -[Instructions](#instructions)
-  -[Usage Information](#usage)
-  -[Lincese](#lincese)
-  -[Contribution Guidelines](#contribution)
-  -[Test instruction](#test)
-  -[Question](#question)
+  - [Instructions](#instructions)
+  - [Usage Information](#usage-information)
+  - [License](#license)
+  - [Contribution Guidelines](#contribution-guidelines)
+  - [Test Instructions](#test-instructions)
+  - [Question](#question)
   
   ## Instructions
   ${data.instructions}
